@@ -1,0 +1,4 @@
+site_name: MESCH | A modular design pattern.
+site_url: https://mesch.lukehjo.dev
+docs_dir: docs
+theme: readthedocs
