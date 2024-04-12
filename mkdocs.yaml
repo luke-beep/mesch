@@ -2,3 +2,6 @@ site_name: MESCH | A modular design pattern.
 site_url: https://mesch.lukehjo.dev
 docs_dir: docs
 theme: readthedocs
+repo_url: https://github.com/luke-beep/mesch
+site_author: LukeHjo
+site_description: MESCH is a modular design pattern that allows you to create a scalable and maintainable design system.
