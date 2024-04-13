@@ -1,6 +1,8 @@
 # MESCH
 
-Welcome to MESCH, an architecture designed by Azrael to provide a robust and scalable framework for developing software applications. MESCH stands for Models, Enums, Services, Contracts & Helpers, each play a crucial role in building efficient and maintainable systems.
+![MESCH](docs/static/MESCH.png)
+
+Welcome to MESCH, an architecture designed to provide a robust and scalable framework for developing software applications. MESCH stands for Models, Enums, Services, Contracts & Helpers, each play a crucial role in building efficient and maintainable systems.
 
 ## What is MESCH?
 
